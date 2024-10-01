@@ -19,8 +19,8 @@ const styles = {
     borderRadius: '5px',
     boxShadow: '0 2px 5px rgba(0, 0, 0, 0.3)',
     position: 'absolute',
-    top: '10px',
-    left: '10px',
+    top: '4vh',
+    left: '4vw',
     zIndex: 1000,
   },
   title: {
